@@ -1,0 +1,27 @@
+.contact-container1 {
+  display: contents;
+}
+ 
+.contact-thq-contact-title-accent-elm {
+  background: linear-gradient(135deg, var(--portfolio-accent) 0%, #a5b4fc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ 
+.contact-thq-contact-btn-glow-elm {
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: 0.5s;
+}
+ 
+.contact-container2 {
+  display: none;
+}
+ 
+.contact-container3 {
+  display: contents;
+}
